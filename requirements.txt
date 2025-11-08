@@ -21,4 +21,4 @@ sympy==1.14.0
 torch==2.2.2
 tzdata==2025.2
 swig
-gymnasium[box2d]
+box2d
