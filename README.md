@@ -7,4 +7,4 @@
 
 Для запуска открыть project_TuranosovKV.ipynb
 
-!pip install -r requirements.txt
+`!pip install -r requirements.txt`
